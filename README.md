@@ -45,4 +45,12 @@ for i in range(len(arr));
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
