@@ -41,6 +41,7 @@ for i in range(len(arr));
 | ------- |
 | [0002-add-two-numbers](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +64,7 @@ for i in range(len(arr));
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -72,4 +74,8 @@ for i in range(len(arr));
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
