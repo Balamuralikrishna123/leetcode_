@@ -59,6 +59,7 @@ for i in range(len(arr));
 | ------- |
 | [0053-maximum-subarray](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
@@ -78,4 +79,8 @@ for i in range(len(arr));
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
