@@ -49,6 +49,7 @@ for i in range(len(arr));
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -85,4 +86,12 @@ for i in range(len(arr));
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
