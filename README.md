@@ -42,6 +42,7 @@ for i in range(len(arr));
 | [0002-add-two-numbers](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ for i in range(len(arr));
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -91,6 +93,7 @@ for i in range(len(arr));
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Balamuralikrishna123/leetcode_/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
